@@ -1,0 +1,4 @@
+From: ana@example.com
+To: copilot@microsoft.com
+X-DSPAM-Result: Spam
+X-DSPAM-Confidence: 0.95
